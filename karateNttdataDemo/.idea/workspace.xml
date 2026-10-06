@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d50e0f17-8257-4f89-9d2c-69054847f4ec" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2k7KS0HDowCQIrNQ8A8qFpW4gdl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Scenario: get all users and then get the first user by id (1).executor": "Run",
+    "Cucumber Java.Scenario: get all users and then get the first user by id.executor": "Run",
+    "Cucumber Java.Scenario: valida la creación de una mascota (1).executor": "Run",
+    "Cucumber Java.Scenario: valida la creación de una mascota (2).executor": "Run",
+    "Cucumber Java.Scenario: valida la creación de una mascota.executor": "Run",
+    "JUnit.ExamplesTest.executor": "Run",
+    "JUnit.ExamplesTest.testAll.executor": "Run",
+    "JUnit.TestRunner.TestRunner.executor": "Run",
+    "JUnit.TestRunner.testUsers.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nvasquea/Documents/Capacitaciones/karate-demo/karateNttdataDemo",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java/examples/petStore" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/resources/request" />
+      <recent name="$PROJECT_DIR$/src/test/java/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner.TestRunner">
+    <configuration name="Scenario: valida la creación de una mascota (2)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/createPetStore.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="karateNttdataDemo" />
+      <option name="NAME_FILTER" value="^valida la creación de una mascota$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^valida la creación de una mascota$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: valida la creación de una mascota" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karateNttdataDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate" />
+      <option name="MAIN_CLASS_NAME" value="karate.ExamplesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamplesTest.testAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karateNttdataDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate" />
+      <option name="MAIN_CLASS_NAME" value="karate.ExamplesTest" />
+      <option name="METHOD_NAME" value="testAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karateNttdataDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate.runner" />
+      <option name="MAIN_CLASS_NAME" value="karate.runner.TestRunner" />
+      <option name="METHOD_NAME" value="TestRunner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.testUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karateNttdataDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="karate.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="karate.runner" />
+      <option name="MAIN_CLASS_NAME" value="karate.runner.TestRunner" />
+      <option name="METHOD_NAME" value="testUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner.TestRunner" />
+        <item itemvalue="JUnit.TestRunner.testUsers" />
+        <item itemvalue="JUnit.ExamplesTest.testAll" />
+        <item itemvalue="Cucumber Java.Scenario: valida la creación de una mascota (2)" />
+        <item itemvalue="JUnit.ExamplesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d50e0f17-8257-4f89-9d2c-69054847f4ec" name="Changes" comment="" />
+      <created>1722629171439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722629171439</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+14:13:19.263 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+14:13:20.162 [main] INFO  com.intuit.karate - karate.env system property was: null 
+14:13:20.500 [main] DEBUG com.intuit.karate - request:
+1 > POST https://petstore.swagger.io/v2/pet
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 137
+1 > Host: petstore.swagger.io
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.12)
+1 > Accept-Encoding: gzip,deflate
+{"photoUrls":["string"],"name":"Vaguito","id":0,"category":{"name":"dogs","id":0},"tags":[{"name":"string","id":0}],"status":"available"}
+
+14:13:21.270 [main] DEBUG com.intuit.karate - response time in milliseconds: 767
+1 < 200
+1 < Date: Mon, 05 Oct 2026 19:13:22 GMT
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+1 < Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+1 < Server: Jetty(9.2.9.v20150224)
+{"photoUrls":["string"],"name":"Vaguito","id":9223372036854775322,"category":{"name":"dogs","id":0},"tags":[{"name":"string","id":0}],"status":"available"}
+14:13:21.282 [main] INFO  com.intuit.karate - [print] Mascota creada:  Vaguito 
+14:13:21.294 [main] INFO  com.intuit.karate - karate.env system property was: null 
+14:13:21.299 [main] DEBUG com.intuit.karate - request:
+1 > POST https://petstore.swagger.io/v2/pet
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 138
+1 > Host: petstore.swagger.io
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.12)
+1 > Accept-Encoding: gzip,deflate
+{"photoUrls":["string"],"name":"Firulais","id":0,"category":{"name":"dogs","id":0},"tags":[{"name":"string","id":0}],"status":"available"}
+
+14:13:21.596 [main] DEBUG com.intuit.karate - response time in milliseconds: 297
+1 < 200
+1 < Date: Mon, 05 Oct 2026 19:13:22 GMT
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+1 < Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+1 < Server: Jetty(9.2.9.v20150224)
+{"photoUrls":["string"],"name":"Firulais","id":9223372036854775323,"category":{"name":"dogs","id":0},"tags":[{"name":"string","id":0}],"status":"available"}
+14:13:21.598 [main] INFO  com.intuit.karate - [print] Mascota creada:  Firulais 
